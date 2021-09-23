@@ -10,12 +10,12 @@ html{
   
   .contenedor-all{
    background: linear-gradient(#A82BD1, #5E1476);
-   width: 900px;
+   width: 800px;
    height: 400px;
    border-radius:20px;
    position:absolute;
-   left:9%;
-   top:12%;
+   left:18%;
+   top:15%;
    display:flex;
    flex-wrap:wrap;
    justify-content: center;
