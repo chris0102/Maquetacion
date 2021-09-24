@@ -88,3 +88,12 @@ html{
     color: #BD36CA;
     font-size:40px;
   }
+  .tarjeta-medio:hover .tarjeta-lados:hover
+  {
+    opacity: 30%;
+  }
+
+ .tarjeta-medio:hover .tarjeta-lados:hover{
+   transform: scale(1.25);
+   opacity: 1;
+ }
